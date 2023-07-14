@@ -107,8 +107,6 @@ npm test
 - Twitter: [@derrick14](https://twitter.com/DerrickHayle)
 - LinkedIn: [okongo derrick](https://www.linkedin.com/in/okongo-derrick-a0147622b/)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
