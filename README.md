@@ -96,7 +96,8 @@ npm test
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://crypto-webapp-1vyn.onrender.com/)
+- [video presentation](https://www.loom.com/share/10c231e14573425d8a78ecd39537e68f?sid=b051d95e-4fdf-4b56-a073-853281ac246c)
 
 ## 👥 Author  <a name="authors"></a>
 
